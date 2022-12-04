@@ -13,8 +13,8 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Landmark Technologies</name>
-		<url>http://landmarktechnologies.com/</url>
+		<name>XASHY TECHNOLOGIES </name>
+		<url>http://xashyinc.com.com/</url>
 	</organization>
 
 	<properties>
@@ -94,16 +94,10 @@
 	</dependencies>
 	<distributionManagement>
 	    <repository>
-	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.53.227.31:8191/landmark/repository/tesla-fe-releases/</url>
+	      <id>Github</id>
+	      <name>Github packages</name>
+	      <url>https://maven.pkg.github.com/drixone-coder/maven-web-application</url>
 	    </repository>
-	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.53.227.31:8191/landmark/repository/tesla-fe-snapshots/</url>
-	    </snapshotRepository>
 	    
 	</distributionManagement>
 	
