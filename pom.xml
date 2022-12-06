@@ -14,7 +14,7 @@
 
 	<organization>
 		<name>XASHY TECHNOLOGIES </name>
-		<url>http://xashyinc.com.com/</url>
+		<url>https://xashyinc.com.com/</url>
 	</organization>
 
 	<properties>
@@ -95,7 +95,7 @@
 	<distributionManagement>
 	    <repository>
 	      <id>Github</id>
-	      <name>Github packages</name>
+	      <name>drixone-coders</name>
 	      <url>https://maven.pkg.github.com/drixone-coder/maven-web-application</url>
 	    </repository>
 	    
